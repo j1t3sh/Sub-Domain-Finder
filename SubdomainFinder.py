@@ -30,3 +30,5 @@ for line in lines:
 			print ("[+] {} {}".format(subdomain, result))
 	except:
 		pass
+
+	#not shubham
